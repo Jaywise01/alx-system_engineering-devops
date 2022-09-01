@@ -1,1 +1,1 @@
-script 4-listmorefiles contains a command thst displays the contents of a directory including hidden files in a long format 
+script 5-listfilesdigitonly contains the command to display directory contents in long format with user and group iD displayed in digits 
