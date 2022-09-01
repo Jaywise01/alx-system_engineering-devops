@@ -1,1 +1,1 @@
-script 5-listfilesdigitonly contains the command to display directory contents in long format with user and group iD displayed in digits 
+script 6-firstdirectory contains a command that creat a directory 
