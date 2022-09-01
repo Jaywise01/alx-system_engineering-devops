@@ -1,1 +1,1 @@
-script 9-firstdirdeletion contains a command that delete the directory my_first_directory y 
+script 10-back contains a command that changes the working directory to the previous one 
