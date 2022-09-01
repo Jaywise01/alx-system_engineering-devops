@@ -1,1 +1,1 @@
-script 3-listfiles contains a command that display current directory contents in a long format
+script 4-listmorefiles contains a command thst displays the contents of a directory including hidden files in a long format 
