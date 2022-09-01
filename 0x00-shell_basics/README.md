@@ -1,1 +1,1 @@
-script 8-firstdelete contain a command that delete the file betty in /tmp/my_first_directory 
+script 9-firstdirdeletion contains a command that delete the directory my_first_directory y 
