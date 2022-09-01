@@ -1,1 +1,1 @@
-script 7-movethatfile contains a command that moves the file betty in my_first_directory 
+script 8-firstdelete contain a command that delete the file betty in /tmp/my_first_directory 
