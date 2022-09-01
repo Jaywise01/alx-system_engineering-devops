@@ -1,1 +1,1 @@
-script 1-listit contains a command that list the contents of the current directory 
+script 2-bring_me_home contains a command that changes the working directory to the user's home directory 
