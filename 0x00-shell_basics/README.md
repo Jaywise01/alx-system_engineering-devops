@@ -1,1 +1,1 @@
-script 2-bring_me_home contains a command that changes the working directory to the user's home directory 
+script 3-listfiles contains a command that display current directory contents in a long format
