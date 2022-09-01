@@ -1,1 +1,1 @@
-script 11-lists contains a command that list files starting with the current  working directory,parent directory and in the directory boote  in a long format 
+script 12-file_type contains a command that print the type of the file named iamafilet 
