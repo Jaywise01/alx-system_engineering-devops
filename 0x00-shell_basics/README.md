@@ -1,1 +1,1 @@
-script 0-current_working_directory contains a command that prints the absolute path name of the current working directory
+script 1-listit contains a command that list the contents of the current directory 
